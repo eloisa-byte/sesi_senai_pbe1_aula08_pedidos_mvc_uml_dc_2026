@@ -17,3 +17,17 @@ Back-end com duas coleções mockup JSON e pedidos, CRUD, para aprender, MVC e U
 npm install
 npm run dev
 ```
+
+## Testes:
+
+- Alterar cliente
+![alterar](./teste_alterar_certo.jpg)
+
+- Excluir cliente
+![excluir](./teste_excluir_certo.jpg)
+
+- Alterar pedido
+![alterar](./teste_alterar_2.jpg)
+
+- Excluir Pedido
+![excluir](./teste_excluir_2.jpg)
