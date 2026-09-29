@@ -14,8 +14,6 @@ Back-end com duas coleções mockup JSON e pedidos, CRUD, para aprender, MVC e U
 - Clone este repositório e abra com VsCode
 - Instale as dependências e execute com os seguintes comandos no terminal:
 ```
-bash
-
 npm install
 npm run dev
 ```
